@@ -1,0 +1,27 @@
+.top {
+  width: 1920px; 
+  height: 150px; 
+  background-color: rgb(80, 75, 75);
+  
+} 
+.right{
+  width: 200px; 
+  height: 851px; 
+  background-color: rgb(207, 207, 207);
+  float: right;
+
+}
+.bottom { 
+  width: 1520px; 
+  height: 100px; 
+  background-color: rgb(31, 31, 31);
+  position: absolute; bottom: .01px; right: 200px; ;
+  float: left;
+  
+}
+.left { 
+  width: 200px ; 
+  height: 851px; 
+  background-color: rgb(207, 207, 207) ;
+  float: left;
+}
